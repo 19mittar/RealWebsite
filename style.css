@@ -10,6 +10,7 @@ body {
     height: 70px;
     margin-top: 10px;
     padding-top: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .padding2{
     height: 80px;
@@ -82,4 +83,7 @@ li a:hover {
 {
    
     border: 5px solid #A2AF44;
+}
+.center-nav{
+    padding-left: 225px;
 }
